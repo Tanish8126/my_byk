@@ -7,8 +7,14 @@ environment:
   sdk: '>=2.19.6 <3.0.0'
 
 dependencies:
+  country_code_picker: ^3.0.0
   flutter:
     sdk: flutter
+  flutter_svg: ^2.0.4
+  get: ^4.6.5
+  permission_handler: ^10.2.0
+  pinput: ^2.2.31
+  url_launcher: ^6.1.10
 
 dev_dependencies:
   flutter_test:
